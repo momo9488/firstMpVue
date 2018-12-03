@@ -1,6 +1,7 @@
 # my-firstvue
 
 > A Mpvue project
+初始化mpvue的项目
 
 ## Build Setup
 
